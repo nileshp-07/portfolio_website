@@ -622,7 +622,7 @@ header nav a:hover{
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: center;
-    width: 50%;
+    width: 40%;
 }
 
 .blob-style{
