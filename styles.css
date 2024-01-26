@@ -486,14 +486,14 @@ header nav a:hover{
 }
 #project2{
     margin-left: 120px;
-    background-image: url("Images/projects/project_2.png");
+   background-image: url("./Images/projects/project_2.png");
 }
 #project3{
-    background-image: url(./Images/projects/project_3.png);
+   background-image: url("./Images/projects/project_3.png");
 }
 #project4{
     margin-left: 120px;
-    background-image: url(Images/projects/project_4.png);
+    background-image: url("./Images/projects/project_4.png");
 }
 
 
